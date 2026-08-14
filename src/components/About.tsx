@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am a Computer Applications student specializing in Artificial Intelligence & Machine Learning at Jain University, Bangalore (7.8 SGPA). Passionate about developing deep learning vision models and intelligent software systems, with hands-on experience in Python, MySQL, HTML, and core computer science fundamentals.
         </p>
       </div>
     </div>

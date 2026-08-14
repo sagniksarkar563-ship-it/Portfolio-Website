@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="60" fill="#111827"/>
+  <g transform="translate(48, 48) scale(0.625)">
+    <path fill="#00599C" d="M128 0C57.3 0 0 57.3 0 128s57.3 128 128 128 128-57.3 128-128S198.7 0 128 0zm0 40c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88z"/>
+    <path fill="#004482" d="M140 70h-24v116h24V70z" opacity="0.1"/>
+    <text x="75" y="150" font-family="'Geist', 'Segoe UI', sans-serif" font-weight="bold" font-size="70" fill="#00599C">C++</text>
+  </g>
+</svg>
