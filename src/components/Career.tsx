@@ -27,13 +27,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Class XII (Senior Secondary)</h4>
-                <h5>Techno India Group Public School, Jalpaiguri</h5>
+                <h4>AI / ML Intern</h4>
+                <h5>Wells Fargo</h5>
               </div>
-              <h3>2024</h3>
+              <h3>Jul 2026</h3>
             </div>
             <p>
-              Completed Higher Secondary Education (Jul 2022 - May 2024) with Computer Science, Mathematics, English, Geography, and Economics.
+              Internship focused on applied machine learning and AI development. Worked on real-world projects involving deep learning, computer vision, and data pipelines. (Update this description with your actual work.)
             </p>
           </div>
           <div className="career-info-box">

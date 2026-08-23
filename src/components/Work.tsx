@@ -31,6 +31,12 @@ const projects = [
     tools: "MySQL, Relational Schema, SQL Queries, Normalization",
     image: "/images/mysql_db_project.jpg",
   },
+  {
+    title: "TripWise",
+    category: "Travel Planning & Web App",
+    tools: "React, Node.js, JavaScript, API Integration",
+    image: "/images/tripwise.jpg",
+  },
 ];
 
 const Work = () => {
